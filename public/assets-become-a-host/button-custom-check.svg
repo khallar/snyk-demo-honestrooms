@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <filter id="Circle" x="-4" y="0.875" width="60.125" height="60.125" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#ff003a" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Elementos_2">
+      <rect width="53" height="53"/>
+    </clipPath>
+  </defs>
+  <g id="Elementos_2" data-name="Elementos – 2" clip-path="url(#clip-Elementos_2)">
+    <rect width="53" height="53" fill="none"/>
+    <g id="iconArrow" transform="translate(-183 0.396)">
+      <g transform="matrix(1, 0, 0, 1, 183, -0.4)" filter="url(#Circle)">
+        <circle id="Circle-2" data-name="Circle" cx="18.063" cy="18.063" r="18.063" transform="translate(8 8.88)" fill="#e5ebbc"/>
+      </g>
+      <path id="Arrow" d="M15.482,6.773H3.677L9.1,1.355,7.741,0,0,7.741l7.741,7.741L9.1,14.127,3.677,8.709H15.482V6.773Z" transform="translate(216.804 34.282) rotate(180)" fill="#fb9d7d" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

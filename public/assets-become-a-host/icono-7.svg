@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="126" viewBox="0 0 126 126">
+  <defs>
+    <filter id="Path_367" x="0" y="1" width="130" height="130" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_29" x="-4" y="1" width="130" height="130" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Icono_7">
+      <rect width="126" height="126"/>
+    </clipPath>
+  </defs>
+  <g id="Icono_7" data-name="Icono – 7" clip-path="url(#clip-Icono_7)">
+    <rect width="126" height="126" fill="none"/>
+    <g id="Icono_Comenza_a_generar" data-name="Icono Comenza a generar" transform="translate(-935 -1524)">
+      <g transform="matrix(1, 0, 0, 1, 935, 1524)" filter="url(#Path_367)">
+        <path id="Path_367-2" data-name="Path 367" d="M56,0A56,56,0,1,1,0,56,56,56,0,0,1,56,0Z" transform="translate(9 7)" fill="#ffc906"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 935, 1524)" filter="url(#Ellipse_29)">
+        <circle id="Ellipse_29-2" data-name="Ellipse 29" cx="56" cy="56" r="56" transform="translate(5 7)" fill="#fff"/>
+      </g>
+      <g id="Icono_hand" data-name="Icono hand" transform="translate(963.326 1554.766)">
+        <path id="Path_146" data-name="Path 146" d="M221,332.473a1.336,1.336,0,1,0-1.889,0A1.337,1.337,0,0,0,221,332.473Zm0,0" transform="translate(-189.582 -286.098)" fill="#83878c"/>
+        <path id="Path_147" data-name="Path 147" d="M188.449,14.686A14.686,14.686,0,1,0,203.135,0,14.7,14.7,0,0,0,188.449,14.686Zm26.7,0A12.016,12.016,0,1,1,203.135,2.67,12.029,12.029,0,0,1,215.151,14.686Zm0,0" transform="translate(-163.35)" fill="#83878c"/>
+        <path id="Path_148" data-name="Path 148" d="M15.879,251.945a1.335,1.335,0,0,0,1.884.011l6.473-6.377a4.035,4.035,0,0,0,.95-4.143l1.392-1.343a3.981,3.981,0,0,1,2.78-1.123H47.107a11.953,11.953,0,0,0,8.381-3.4c.093-.09-.7.849,12.108-14.464a5.34,5.34,0,0,0-8.126-6.931l-7.878,8.1a5.365,5.365,0,0,0-4.151-1.988H32.553a17.224,17.224,0,0,0-6.686-1.335c-6.429,0-12.042,2.969-15.055,8.536a3.988,3.988,0,0,0-3.571,1.106l-6.351,6.37a1.335,1.335,0,0,0,0,1.883Zm9.988-30.331a14.574,14.574,0,0,1,5.877,1.223,1.333,1.333,0,0,0,.535.112H47.44a2.67,2.67,0,1,1,0,5.34H36.548a1.335,1.335,0,1,0,0,2.67H47.44a5.332,5.332,0,0,0,5.293-6.038c7.621-7.834,8.7-8.934,8.741-8.989a2.671,2.671,0,1,1,4.077,3.45L53.578,233.7a9.3,9.3,0,0,1-6.471,2.6H29.358a6.638,6.638,0,0,0-4.634,1.872l-1.135,1.095L13.13,228.808C15.575,224.223,20.161,221.614,25.867,221.614Zm-16.736,8.86a1.332,1.332,0,0,1,1.653-.188c.231.141-.432-.463,11.564,11.516a1.338,1.338,0,0,1,.007,1.882l-5.518,5.436L3.719,235.9Zm0,0" transform="translate(-0.501 -183.965)" fill="#83878c"/>
+        <path id="Path_149" data-name="Path 149" d="M268.542,41.324v1.564a4,4,0,0,0,1.335,7.781,1.335,1.335,0,0,1,0,2.67,2.415,2.415,0,0,1-1.733-1.01,1.335,1.335,0,1,0-2.044,1.718,5.538,5.538,0,0,0,2.442,1.739v1.558a1.335,1.335,0,0,0,2.67,0V55.78A4,4,0,0,0,269.877,48a1.335,1.335,0,0,1,0-2.67,2.144,2.144,0,0,1,1.444.7,1.335,1.335,0,0,0,1.857-1.919,5.158,5.158,0,0,0-1.966-1.229V41.324a1.335,1.335,0,1,0-2.67,0Zm0,0" transform="translate(-230.36 -34.648)" fill="#83878c"/>
+      </g>
+    </g>
+  </g>
+</svg>
