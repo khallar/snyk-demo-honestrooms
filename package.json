@@ -10,6 +10,6 @@
     "bootstrap-sass": "^3.0.0",
     "graceful-fs": "^4.1.10",
     "gulp-uglifycss": "^1.0.8",
-    "laravel-elixir": "^2.0.0"
+    "laravel-elixir": "^3.0.0"
   }
 }
